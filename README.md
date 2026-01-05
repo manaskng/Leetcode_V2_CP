@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0152-maximum-product-subarray) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
