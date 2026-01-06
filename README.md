@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0152-maximum-product-subarray) |
+| [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
 ## Binary Search
@@ -45,5 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
