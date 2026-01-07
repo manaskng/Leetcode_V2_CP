@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0071-simplify-path) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0071-simplify-path) |
 | [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2390-removing-stars-from-a-string) |
