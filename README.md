@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0152-maximum-product-subarray) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2390-removing-stars-from-a-string) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
