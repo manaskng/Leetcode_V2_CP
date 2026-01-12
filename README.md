@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0152-maximum-product-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0746-min-cost-climbing-stairs) |
 | [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
+| [1266-minimum-time-visiting-all-points](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
@@ -93,8 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0070-climbing-stairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1266-minimum-time-visiting-all-points) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0070-climbing-stairs) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
