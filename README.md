@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3453-separate-squares-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3454-separate-squares-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
+| [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1266-minimum-time-visiting-all-points) |
 ## Memoization
 |  |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
+## Number Theory
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
