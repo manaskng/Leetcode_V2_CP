@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
