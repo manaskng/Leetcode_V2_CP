@@ -1,30 +1,19 @@
-class Foo {
-public:
-     atomic<int>state;
-    Foo() {
-       
-        state=1;
-        
-    }
+#include <semaphore>
 
+class Foo {
+    std::binary_semaphore s1{0}, s2{0};
+public:
     void first(function<void()> printFirst) {
         printFirst();
-        state=2;
+        s1.release();
     }
-
-
     void second(function<void()> printSecond) {
-        
-        // printSecond() outputs "second". Do not change or remove this line.
-        while(state!=2);
+        s1.acquire();
         printSecond();
-        state=3;
+        s2.release();
     }
-
     void third(function<void()> printThird) {
-        
-        // printThird() outputs "third". Do not change or remove this line.
-        while(state!=3);
+        s2.acquire();
         printThird();
     }
 };
