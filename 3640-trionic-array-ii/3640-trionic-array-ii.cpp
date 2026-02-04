@@ -21,7 +21,6 @@ public:
             int nextEle = nums[i + 1];
 
             if (currEle < nextEle) {
-            //Increasing Edge
                 if (!isInc) {
                     isInc = true;
                     currIncIdx = i;
@@ -29,8 +28,7 @@ public:
 
                 //Checking all possible sum
                 if (prevIncIdx != -1) {
-                    maxSum = max(maxSum, 
-                    prefix[i + 2] - prefix[prevIncIdx]);
+                 maxSum = max(maxSum,  prefix[i + 2] - prefix[prevIncIdx]);
                 }
             }
             else if (nextEle < currEle) {
