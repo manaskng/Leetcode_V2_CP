@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0746-min-cost-climbing-stairs) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0071-simplify-path) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2390-removing-stars-from-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1441-build-an-array-with-stack-operations) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
