@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Helper function returns the height if balanced, else -1
+    
     int check(TreeNode* root) {
         if (!root) return 0;
 
