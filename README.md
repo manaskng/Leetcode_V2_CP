@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3634-minimum-removals-to-balance-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3453-separate-squares-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3488-closest-equal-element-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3488-closest-equal-element-queries](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3719-longest-balanced-subarray-i) |
