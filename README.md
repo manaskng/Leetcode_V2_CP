@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3721-longest-balanced-subarray-ii) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Doubly-Linked List
