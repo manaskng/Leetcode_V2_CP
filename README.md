@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0071-simplify-path) |
+| [0696-count-binary-substrings](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0696-count-binary-substrings) |
 | [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3645-maximum-total-from-optimal-activation-order) |
