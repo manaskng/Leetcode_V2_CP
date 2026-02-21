@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Doubly-Linked List
