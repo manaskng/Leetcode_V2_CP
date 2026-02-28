@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1441-build-an-array-with-stack-operations) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2390-removing-stars-from-a-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2390-removing-stars-from-a-string) |
 | [3379-transformed-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1266-minimum-time-visiting-all-points) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Memoization
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Doubly-Linked List
