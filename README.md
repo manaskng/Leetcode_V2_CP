@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3643-flip-square-submatrix-vertically) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3719-longest-balanced-subarray-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3719-longest-balanced-subarray-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0696-count-binary-substrings) |
 | [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3643-flip-square-submatrix-vertically) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Monotonic Stack
 |  |
