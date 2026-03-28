@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Dynamic Programming
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3640-trionic-array-ii) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2390-removing-stars-from-a-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2390-removing-stars-from-a-string) |
+| [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3713-longest-balanced-substring-i) |
@@ -434,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
