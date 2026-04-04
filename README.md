@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0239-sliding-window-maximum) |
 | [0354-russian-doll-envelopes](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0354-russian-doll-envelopes) |
+| [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0746-min-cost-climbing-stairs) |
 | [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
+| [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
+| [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3634-minimum-removals-to-balance-array) |
