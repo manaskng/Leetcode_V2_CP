@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0746-min-cost-climbing-stairs) |
+| [0874-walking-robot-simulation](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0874-walking-robot-simulation) |
 | [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
 | [1200-minimum-absolute-difference](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1200-minimum-absolute-difference) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
 | [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
+| [0874-walking-robot-simulation](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0874-walking-robot-simulation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
