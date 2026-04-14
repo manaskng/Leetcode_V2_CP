@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## String
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Doubly-Linked List
 |  |
 | ------- |
