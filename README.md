@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-total-distance-traveled](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2906-construct-product-matrix) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2390-removing-stars-from-a-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2390-removing-stars-from-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
