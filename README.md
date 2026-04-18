@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0746-min-cost-climbing-stairs) |
+| [0827-making-a-large-island](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0827-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0874-walking-robot-simulation) |
 | [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
 | [1200-minimum-absolute-difference](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1200-minimum-absolute-difference) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0110-balanced-binary-tree) |
+| [0827-making-a-large-island](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0827-making-a-large-island) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0827-making-a-large-island) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2258-escape-the-spreading-fire](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2258-escape-the-spreading-fire) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0085-maximal-rectangle) |
+| [0827-making-a-large-island](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0827-making-a-large-island) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0827-making-a-large-island) |
 | [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 ## String Matching
 |  |
