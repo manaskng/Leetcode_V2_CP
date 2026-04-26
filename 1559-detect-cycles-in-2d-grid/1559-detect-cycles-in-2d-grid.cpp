@@ -21,7 +21,7 @@ vector<pair<int,int>>dirs={{0,1},{1,0},{-1,0},{0,-1}};
                 }
             }
             
-            else if (!(ni == pi && nj == pj)) {
+            else if (!(ni == pi && nj == pj)) {// also check if the nei is parent or not as it is undirected graph
                 return true;
             }
         }
