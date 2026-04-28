@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2258-escape-the-spreading-fire](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2258-escape-the-spreading-fire) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2258-escape-the-spreading-fire](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2258-escape-the-spreading-fire) |
 | [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2906-construct-product-matrix) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1266-minimum-time-visiting-all-points) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
