@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2615-sum-of-distances) |
 | [2741-special-permutations](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2741-special-permutations) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2258-escape-the-spreading-fire](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2258-escape-the-spreading-fire) |
+| [2540-minimum-common-value](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2540-minimum-common-value) |
 | [3453-separate-squares-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2540-minimum-common-value](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3643-flip-square-submatrix-vertically) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Monotonic Stack
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
