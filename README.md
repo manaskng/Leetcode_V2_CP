@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0071-simplify-path) |
 | [0657-robot-return-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0657-robot-return-to-origin) |
