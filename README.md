@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0085-maximal-rectangle](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0354-russian-doll-envelopes](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0354-russian-doll-envelopes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
