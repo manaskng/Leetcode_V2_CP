@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
