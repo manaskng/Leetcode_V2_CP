@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3093-longest-common-suffix-queries](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3379-transformed-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3783-mirror-distance-of-an-integer](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
