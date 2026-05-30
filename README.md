@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0827-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0874-walking-robot-simulation) |
 | [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
+| [0973-k-closest-points-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1202-smallest-string-with-swaps) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0973-k-closest-points-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0973-k-closest-points-to-origin) |
 | [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1266-minimum-time-visiting-all-points) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
 | [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
+| [0973-k-closest-points-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0973-k-closest-points-to-origin) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0761-special-binary-string) |
+| [0973-k-closest-points-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3719-longest-balanced-subarray-i) |
@@ -463,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0354-russian-doll-envelopes) |
 | [0761-special-binary-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0761-special-binary-string) |
+| [0973-k-closest-points-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1202-smallest-string-with-swaps) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -618,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2069-walking-robot-simulation-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
