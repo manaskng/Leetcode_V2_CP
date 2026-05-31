@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1266-minimum-time-visiting-all-points) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1922-count-good-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1922-count-good-numbers) |
 ## Union-Find
 |  |
 | ------- |
