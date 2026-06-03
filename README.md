@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3643-flip-square-submatrix-vertically) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Depth-First Search
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Dynamic Programming
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2540-minimum-common-value](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3643-flip-square-submatrix-vertically) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3645-maximum-total-from-optimal-activation-order) |
 ## Monotonic Stack
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3645-maximum-total-from-optimal-activation-order](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3645-maximum-total-from-optimal-activation-order) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Enumeration
