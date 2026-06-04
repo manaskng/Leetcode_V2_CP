@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0239-sliding-window-maximum) |
 | [0354-russian-doll-envelopes](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0354-russian-doll-envelopes) |
 | [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
+| [0658-find-k-closest-elements](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0827-making-a-large-island) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0354-russian-doll-envelopes](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0354-russian-doll-envelopes) |
+| [0658-find-k-closest-elements](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1201-ugly-number-iii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1201-ugly-number-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0696-count-binary-substrings) |
 | [0962-maximum-width-ramp](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0962-maximum-width-ramp) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0264-ugly-number-ii) |
 | [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
+| [0658-find-k-closest-elements](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0973-k-closest-points-to-origin) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -481,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0354-russian-doll-envelopes) |
+| [0658-find-k-closest-elements](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0658-find-k-closest-elements) |
 | [0761-special-binary-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1200-minimum-absolute-difference) |
@@ -564,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0480-sliding-window-median) |
+| [0658-find-k-closest-elements](https://github.com/manaskng/Leetcode_V2_CP/tree/master/0658-find-k-closest-elements) |
 | [1871-jump-game-vii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
