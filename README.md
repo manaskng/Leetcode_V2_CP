@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## String
 |  |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
 |  |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
 | ------- |
