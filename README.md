@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2258-escape-the-spreading-fire](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2258-escape-the-spreading-fire) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2463-minimum-total-distance-traveled) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manaskng/Leetcode_V2_CP/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
