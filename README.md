@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3721-longest-balanced-subarray-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3838-weighted-word-mapping](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3838-weighted-word-mapping) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Binary Search
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/manaskng/Leetcode_V2_CP/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
